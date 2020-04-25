@@ -6,7 +6,7 @@ alphabet_list = list(string.ascii_uppercase)
 def read_data(filePath):
     number_of_cities = None
     costs = None
-    reliabilities = None
+    e = None
     input_file = open(filePath)
     for line in input_file:
         if '#' in line:

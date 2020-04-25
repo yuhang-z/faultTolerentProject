@@ -1,0 +1,26 @@
+------------------------------------------------------------
+Solution for maximum reliability given cost constraint: 100
+
+Edge # 1 : 2 - 4 Reliability: 0.97 Cost: 10.0
+Edge # 2 : 1 - 4 Reliability: 0.96 Cost: 10.0
+Edge # 3 : 4 - 6 Reliability: 0.96 Cost: 10.0
+Edge # 4 : 1 - 2 Reliability: 0.94 Cost: 10.0
+Edge # 5 : 2 - 3 Reliability: 0.94 Cost: 10.0
+Edge # 6 : 3 - 6 Reliability: 0.94 Cost: 10.0
+Edge # 7 : 1 - 5 Reliability: 0.93 Cost: 20.0
+Edge # 8 : 4 - 5 Reliability: 0.93 Cost: 20.0
+Total cost: 100.0
+Max Reliability 0.9864407847359615
+------------------------------------------------------------
+Solution for maximum reliability given cost constraint: 100
+
+Edge # 1 : 2 - 4 Reliability: 0.97 Cost: 10.0
+Edge # 2 : 1 - 4 Reliability: 0.96 Cost: 10.0
+Edge # 3 : 4 - 6 Reliability: 0.96 Cost: 10.0
+Edge # 4 : 1 - 2 Reliability: 0.94 Cost: 10.0
+Edge # 5 : 2 - 3 Reliability: 0.94 Cost: 10.0
+Edge # 6 : 3 - 6 Reliability: 0.94 Cost: 10.0
+Edge # 7 : 1 - 5 Reliability: 0.93 Cost: 20.0
+Edge # 8 : 4 - 5 Reliability: 0.93 Cost: 20.0
+Total cost: 100.0
+Max Reliability 0.9864407847359615

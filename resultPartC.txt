@@ -1,0 +1,12 @@
+**************************************************
+PART c) Solution for maximum reliability given cost constraint: 50
+
+Total cost: 0
+Max Reliability 0
+**************************************************
+**************************************************
+PART c) Solution for maximum reliability given cost constraint: 200
+
+Total cost: 0
+Max Reliability 0
+**************************************************
