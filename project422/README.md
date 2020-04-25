@@ -9,4 +9,4 @@
   * The Section2.txt would save the result of "Maximize reliability subject to a given cost constraint" after completion.
 * The program takes usually over 5 mins to complete.
 
-###Thanks for your time reviewing our project, and please stay safe!
+### Thanks for your time reviewing our project, and please stay safe!
